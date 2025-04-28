@@ -1,0 +1,2 @@
+# frida_pass_bangbang
+bangbang_pass_frida
